@@ -17,6 +17,7 @@
     "mocha": "^10.2.0",
     "mongoose": "^7.2.3",
     "morgan": "^1.10.0",
-    "supertest": "^6.3.3"
+    "supertest": "^6.3.3",
+    "zod": "^3.21.4"
   }
 }
