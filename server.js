@@ -42,3 +42,6 @@ const server = http.createServer(app);
 server.listen(process.env.PORT, ()=>{
     console.log(`server on port: ${process.env.PORT}`);
 });
+
+// export app for testing
+module.exports = app;
